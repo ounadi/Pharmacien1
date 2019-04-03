@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pharmacien</string>
+    <string name="medecin">medecin</string>
+    <string name="client">client</string>
+    <string name="livraire">livraire</string>
+    <string name="pharmacien">pharmacien</string>
+    <string name="produits_aux_stock">Produits aux stock</string>
+    <string name="refuser">Refuser</string>
+    <string name="nom">Nom</string>
+    <string name="accepter">Accepter</string>
+    <string name="prenom">Prenom</string>
+    <string name="adresse">Adresse</string>
+</resources>
